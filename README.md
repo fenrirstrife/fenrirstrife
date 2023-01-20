@@ -1,14 +1,14 @@
-#Welcome to my profile
-My name is @Jesus Cerecer, I'm a **Support Engineer** working for a banking application.
+- Welcome to my profile
+- My name is @Jesus Cerecer, I'm a **Support Engineer** working for a banking application.
 
-##Tools that I use in my day to day job
+- ##Tools that I use in my day to day job
 * Splunk
 * Kibana
 * DataDog 
 * Dynatrace
 * PuTTY
 
-##Languages and Frameworks
+- ##Languages and Frameworks
 | JAVA | Javascript | DART | Flutter|
 |------|------------|------|--------|
 | Springboot | Hibernate | Bootstrap | React |
