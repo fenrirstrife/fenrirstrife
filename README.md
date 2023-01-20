@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Jesus Cerecer
-- 👀 I’m interested in learning new technologies that would challenge my skills and help
-to improve
-- 🌱 I’m currently learning Dart and Flutter implementations, Firebase and Openshift
+#Welcome to my profile
+My name is @Jesus Cerecer, I'm a **Support Engineer** working for a banking application.
 
-- 📫 How to reach me ...
+##Tools that I use in my day to day job
+* Splunk
+* Kibana
+* DataDog 
+* Dynatrace
+* PuTTY
+
+##Languages and Frameworks
+| JAVA | Javascript | DART | Flutter|
+|------|------------|------|--------|
+| Springboot | Hibernate | Bootstrap | React |
+
+
 
 <!---
 fenrirstrife/fenrirstrife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
